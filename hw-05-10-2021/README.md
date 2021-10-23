@@ -9,7 +9,7 @@
     </li>
     <li> 
         Complex (взята из лекции):
-        <img src="http://www.sciweavers.org/tex2img.php?eq=%20x%20%3D%5Cbegin%7Bcases%7D0.1%20%20%2B%2020%5Ccdot%5Cfrac%7Bexplored%5C%3Bcells%7D%7Bvisible%5C%3Bcells%7D%2C%20%26%20if%5C%3Bnew%5C%3Bcell%5C%3Bvisited%5C%5C-1%2C%20%26%20if%5C%3Bbumped%5C%3Binto%5C%3Btile%5C%5C-0.5%2C%20%26%20else%5Cend%7Bcases%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt=" x =\begin{cases}0.1  + 20\cdot\frac{explored\;cells}{visible\;cells}, & if\;new\;cell\;visited\\-1, & if\;bumped\;into\;tile\\-0.5, & else\end{cases} " width="407" height="79" />
+        <img src="https://bit.ly/3b2aGsT" align="center" border="0" alt=" x =\begin{cases}0.1  + 20\cdot\frac{explored\;cells}{visible\;cells}, & if\;new\;cell\;visited\\-1, & if\;bumped\;into\;tile\\-0.5, & else\end{cases} " width="407" height="79" />
     </li>
 </ol>
 
